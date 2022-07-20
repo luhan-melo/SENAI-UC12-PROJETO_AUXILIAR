@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\bin\Debug\net6.0\ER3_EC1.exe
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\bin\Debug\net6.0\ER3_EC1.deps.json
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\bin\Debug\net6.0\ER3_EC1.runtimeconfig.json
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\bin\Debug\net6.0\ER3_EC1.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\bin\Debug\net6.0\ER3_EC1.pdb
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.AssemblyInfo.cs
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\refint\ER3_EC1.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.pdb
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ER3_EC1.genruntimeconfig.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\ER3_EC1\obj\Debug\net6.0\ref\ER3_EC1.dll
