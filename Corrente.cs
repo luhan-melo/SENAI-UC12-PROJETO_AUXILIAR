@@ -20,5 +20,25 @@ namespace ER3_EC1
                 else
                     this.limite = 0;
             }
+
+        public override bool Sacar(double argValor)
+        {
+            if ((argValor <= (base.saldo + this.limite)))
+            {
+                base.setSaldo(base.saldo - argValor);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public string ToString(){
+            string texto = base.ToString();
+            texto += "\nLimite: " + this.limite;
+            return texto;
+        }
+
     }
 }
